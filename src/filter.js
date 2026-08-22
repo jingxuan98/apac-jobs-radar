@@ -42,7 +42,10 @@ function locationVerdict(loc) {
   if (GLOBAL.test(loc))  return 'high';      // explicitly worldwide
   if (APAC.test(loc))    return 'medium';    // elsewhere in APAC
   if (REGION_LOCKED.test(loc)) return null;  // explicitly somewhere else -- drop
-  if (/remote/i.test(loc)) return 'low';     // bare "Remote" -- keep, flag as unverified
+  // ponytail: bare "Remote" with no APAC signal is dropped. It was admitting
+  // "San Francisco - Remote", "New York, NY (HQ) - Remote" etc. as APAC, because
+  // REGION_LOCKED matches country names but not US city/state names.
+  // Re-add a .low. tier if you start missing genuinely APAC-open remote roles.
   return null;
 }
 
