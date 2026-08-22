@@ -1,0 +1,12 @@
+{
+  "name": "apac-jobs-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily APAC / Singapore engineering job radar with Telegram alerts",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/index.js",
+    "dry": "DRY_RUN=1 node src/index.js"
+  }
+}
