@@ -285,7 +285,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "newrich network|seniorfullstackdeveloperphplaravel",
@@ -765,7 +765,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|principalbackenddevelopmentengineerrisk",
@@ -781,7 +781,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|principalsecurityoperationengineer",
@@ -2589,7 +2589,7 @@
   "country": "APAC-wide",
   "apac_confidence": "medium",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "superplane|productengineer",
@@ -4285,7 +4285,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srtechnicalsolutionsengineerplatformsupp",
@@ -4589,7 +4589,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|technicalaccountingmanager",
@@ -5549,7 +5549,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|staffbackendengineergitlabdeliveryupgrad",
@@ -6989,7 +6989,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|principalseniorsoftwareengineermobilecex",
@@ -7197,7 +7197,7 @@
   "country": "Hong Kong",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|staffseniorstaffsoftwareengineermobilegr",
@@ -7213,7 +7213,7 @@
   "country": "Hong Kong",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|staffsoftwareengineermobilesecurity",
