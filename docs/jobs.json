@@ -93,7 +93,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 90,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorsolutionsarchitectaiplatformssme",
@@ -285,7 +285,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "hygraph|seniorfullstackengineerfmdberlinigermany",
@@ -445,7 +445,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|softwareengineerbackendbilling",
@@ -669,7 +669,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|integrationengineerseagcn",
@@ -1165,7 +1165,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "a.team|seniorindependentsoftwaredeveloperhr",
@@ -2429,7 +2429,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|sreleader",
@@ -2717,7 +2717,7 @@
   "country": "APAC-wide",
   "apac_confidence": "medium",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "supabase|databasesupportengineerapac",
@@ -4253,7 +4253,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 48,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniortechnicalaccountmanager",
@@ -4413,7 +4413,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srmanagerbfsifieldengineering",
@@ -4509,7 +4509,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorbackendengineermonitoringandanomal",
@@ -4717,7 +4717,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|aiengineerfdeforwarddeployedengineer",
@@ -6253,7 +6253,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|seniorsoftwareengineersearch",
@@ -6285,7 +6285,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "elastic|seniorsupportengineer",
@@ -7101,7 +7101,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|staffsoftwareengineersearchquality",
