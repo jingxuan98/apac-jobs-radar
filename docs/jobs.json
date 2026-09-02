@@ -317,7 +317,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "intellectsoft|seniorshopifyfullstackdeveloperir",
@@ -653,7 +653,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|integrationengineerseagcn",
@@ -1853,7 +1853,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "clickhouse|seniorcloudperformanceengineer",
@@ -2032,22 +2032,6 @@
   "is_new": false
  },
  {
-  "id": "lemon.io|seniordevopsengineer",
-  "title": "Senior DevOps Engineer",
-  "company": "Lemon.io",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
-  "posted": "Mon, 24 Aug 2026 11:52:38 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "platform",
-  "level": "senior",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 75,
-  "is_new": false
- },
- {
   "id": "lemon.io|senioraiengineer",
   "title": "Senior AI Engineer",
   "company": "Lemon.io",
@@ -2056,6 +2040,22 @@
   "posted": "Wed, 05 Aug 2026 08:23:41 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
+  "level": "senior",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 75,
+  "is_new": false
+ },
+ {
+  "id": "lemon.io|seniordevopsengineer",
+  "title": "Senior DevOps Engineer",
+  "company": "Lemon.io",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
+  "posted": "Mon, 24 Aug 2026 11:52:38 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "platform",
   "level": "senior",
   "work_mode": "remote",
   "country": "Worldwide",
@@ -2461,7 +2461,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fireblocks|technicalsupportengineerapac",
@@ -3325,7 +3325,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|seniorprincipalfrontenddevelopmentengine",
@@ -5341,7 +5341,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|deliverysolutionsarchitect",
@@ -5997,7 +5997,7 @@
   "country": "South Korea",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "clickhouse|seniorconsultingengineerindia",
@@ -6749,7 +6749,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|softwareengineerinternalsystems",
