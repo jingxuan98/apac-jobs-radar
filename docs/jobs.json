@@ -317,7 +317,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "intellectsoft|seniorshopifyfullstackdeveloperir",
@@ -525,7 +525,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "huzzle|fullstackdeveloperpythonreactai",
@@ -605,7 +605,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "openai|manufacturingtestengineer",
@@ -1181,7 +1181,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "a.team|seniorindependentsoftwaredeveloperhr",
@@ -1805,7 +1805,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniorsoftwareengineeraiinfrastructure",
@@ -1949,7 +1949,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coderio|devopssenior",
@@ -2541,7 +2541,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fireblocks|technicalsupportengineerapac",
@@ -4061,7 +4061,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 52,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "neon|forwarddeployedengineer",
@@ -4253,7 +4253,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 48,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "temporal|staffsolutionsarchitectbanking",
@@ -4541,7 +4541,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorprofessionalservicesengineerjapan",
@@ -5325,7 +5325,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coinbase|staffsoftwareengineercustomeradministrat",
@@ -5565,7 +5565,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srsolutionsarchitect",
@@ -5837,7 +5837,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|leadexpertdefiecosystemgrowth",
@@ -6349,7 +6349,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorsoftwareengineer",
@@ -6397,7 +6397,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "matchgroup|seniordataanalyticsengineerazar",
@@ -6509,7 +6509,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "zeta|productsecurityengineerii",
@@ -6749,7 +6749,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "openai|appliedaiengineercybertokyo",
@@ -7245,7 +7245,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|staffsoftwareengineer",
