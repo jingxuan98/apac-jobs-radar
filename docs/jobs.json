@@ -301,7 +301,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gemini|seniorsoftwareengineerinvesttradefullsta",
@@ -397,7 +397,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "proxify ab|seniorbackenddeveloperpython",
@@ -989,7 +989,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "cosuno|principalfullstackdevelopertypescript",
@@ -3117,7 +3117,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "aker systems|principalsoftwareengineerproductteam",
@@ -4285,7 +4285,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|seniorforwarddeployedengineer",
@@ -4429,7 +4429,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorbackendengineerindia",
@@ -4861,7 +4861,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|intermediatebackendengineerdatabasechang",
@@ -5325,7 +5325,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coinbase|staffsoftwareengineercustomeradministrat",
@@ -5453,7 +5453,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|solutionsarchitectlakebase",
@@ -5613,7 +5613,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srsolutionsarchitectlakebase",
@@ -6397,7 +6397,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorsitereliabilityengineermonitoringa",
@@ -6573,7 +6573,7 @@
   "country": "Taiwan",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "zeta|cloudnetworkengineerii",
@@ -7133,7 +7133,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|staffsoftwareengineercoreexperiences",
