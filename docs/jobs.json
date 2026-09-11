@@ -557,7 +557,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "grafana labs|backendengineerplatformstacksirelandremo",
@@ -2637,7 +2637,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|techgovernancesecuritycompliancegovernan",
@@ -4749,7 +4749,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|managerforwarddeployedengineering",
@@ -4925,7 +4925,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "matchgroup|backendengineerplatformgo",
@@ -5773,7 +5773,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|staffbackendengineerdatabasechangemanage",
@@ -5917,7 +5917,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniorsoftwareengineeryield",
@@ -6429,7 +6429,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorsupportengineer",
@@ -7661,7 +7661,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "zeta|leadsitereliabilityengineer",
