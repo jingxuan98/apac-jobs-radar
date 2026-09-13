@@ -653,7 +653,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "openai|aisupportengineersingaporekoreanspeaking",
@@ -1197,7 +1197,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fireblocks|solutionarchitectapac",
@@ -1517,7 +1517,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniorsoftwareengineerlending",
@@ -2189,7 +2189,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gemini|seniorsoftwareengineertradingsystemsmobi",
@@ -4253,7 +4253,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 48,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniortechnicalaccountmanager",
@@ -4429,7 +4429,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srmanagerbfsifieldengineering",
@@ -5501,7 +5501,7 @@
   "country": "South Korea",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|specialistsolutionsarchitectsecurity",
