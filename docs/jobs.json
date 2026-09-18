@@ -461,7 +461,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "proxify ab|seniorbackenddeveloperpython",
@@ -477,7 +477,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "proxify ab|seniorfullstackdeveloperreactjsnodejs",
@@ -493,7 +493,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "toggl|seniorfullstack",
@@ -1325,7 +1325,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniordataplatformengineerknowledgeplatf",
@@ -1885,7 +1885,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniorsalesforceengineergrowth",
@@ -2381,7 +2381,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "truv|seniordevopsengineer",
@@ -2429,7 +2429,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "alphorm|formateuritindpendantcyberscuritiacloudd",
@@ -2765,7 +2765,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "sticker mule|softwareengineer",
@@ -3933,7 +3933,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 57,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srforwarddeployedengineer",
@@ -3965,7 +3965,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 57,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|principalengineeragentinfrastructurememo",
@@ -4237,7 +4237,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 48,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|staffforwarddeployedengineer",
@@ -5693,7 +5693,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "elastic|leadsalesforcefullstackaiengineer",
@@ -6237,7 +6237,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorreleaseengineer",
@@ -6557,7 +6557,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coinhako|dataengineerdataplatform",
