@@ -509,7 +509,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "clickhouse|releaseengineerdataplaneinternaltoolinga",
@@ -1069,7 +1069,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "elastic|seniorsolutionsarchitect",
@@ -1949,7 +1949,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coinhako|seniorengineerpaymentwallet",
@@ -2237,7 +2237,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|bigdatadevelopmentengineer",
@@ -3453,7 +3453,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|staffengineersecurityplatformdevelopment",
@@ -6221,7 +6221,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|androidbspengineer",
@@ -6285,7 +6285,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|softwareengineerinternalsystems",
