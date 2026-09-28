@@ -1917,7 +1917,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "edfinity|seniorsoftwareengineerremote",
@@ -3101,7 +3101,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|principalaiengineeraiagentdevelopment",
