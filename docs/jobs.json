@@ -925,7 +925,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|solutionsarchitectlakebase",
@@ -957,7 +957,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srdeliverysolutionsarchitectthailand",
@@ -973,7 +973,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srmanagerpartnersolutionsarchitect",
@@ -2045,7 +2045,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "portcast|seniormachinelearningengineer",
@@ -2141,7 +2141,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|bigdatadevelopmentengineer",
@@ -2285,7 +2285,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "expel|managedsiemdetectionengineer",
@@ -3085,7 +3085,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "faire|seniorstaffmachinelearningplatformengine",
@@ -3373,7 +3373,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|seniorstaffsoftwareengineertradingservic",
@@ -3997,7 +3997,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|seniorsoftwareengineerbackend",
@@ -4333,7 +4333,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "decagon|enterprisesolutionsengineer",
@@ -6285,7 +6285,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|principalaiengineerbusinessaccounts",
