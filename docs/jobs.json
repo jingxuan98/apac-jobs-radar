@@ -93,7 +93,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 90,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "clickhouse|technicalaccountmanagerarchitectsingapor",
@@ -221,7 +221,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|seniorbackenddevelopmentengineer",
@@ -845,7 +845,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|staffbackendengineerissuingplatform",
@@ -3869,7 +3869,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 48,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "temporal|staffsolutionsarchitectbankingindia",
@@ -4029,7 +4029,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coinbase|senioritautomationengineer",
@@ -4269,7 +4269,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorsecurityengineerincidentresponsete",
@@ -4925,7 +4925,7 @@
   "country": "Remote / unspecified",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "clickhouse|enterprisesolutionsarchitectbangalore",
@@ -6237,7 +6237,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "matchgroup|machinelearningengineermatchgroupai",
