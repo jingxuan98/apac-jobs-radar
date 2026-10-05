@@ -509,7 +509,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "clickhouse|releaseengineerdataplaneinternaltoolinga",
@@ -1245,7 +1245,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "a.team|seniorindependentsoftwaredeveloperhr",
@@ -2685,7 +2685,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "yooli|fulltimesoftwareengineerpositionreactand",
@@ -4541,7 +4541,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fireblocks|salesengineer",
