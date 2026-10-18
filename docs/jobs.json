@@ -365,7 +365,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "alchemy|customerproductengineerapac",
@@ -448,22 +448,6 @@
   "is_new": false
  },
  {
-  "id": "datadog|enterprisesalesengineerfed",
-  "title": "Enterprise Sales Engineer - FED",
-  "company": "Datadog",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-sales-engineer-fed",
-  "posted": "Mon, 05 Oct 2026 07:31:16 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "solutions",
-  "level": "unspecified",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 80,
-  "is_new": false
- },
- {
   "id": "elevenlabs|itengineer",
   "title": "IT Engineer",
   "company": "Elevenlabs",
@@ -518,22 +502,6 @@
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/8034338003",
   "posted": "2026-10-15T03:40:24-04:00",
-  "source": "greenhouse",
-  "role_bucket": "blockchain",
-  "level": "unspecified",
-  "work_mode": "unspecified",
-  "country": "Singapore",
-  "apac_confidence": "high",
-  "score": 80,
-  "is_new": true
- },
- {
-  "id": "okx|softwareengineermobileweb",
-  "title": "Software Engineer, Mobile, Web3",
-  "company": "Okx",
-  "location": "Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7777043003",
-  "posted": "2026-10-05T23:33:12-04:00",
   "source": "greenhouse",
   "role_bucket": "blockchain",
   "level": "unspecified",
@@ -1760,6 +1728,22 @@
   "is_new": false
  },
  {
+  "id": "expel|seniordetectionampresponseengineer",
+  "title": "Senior Detection &amp; Response Engineer",
+  "company": "Expel",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
+  "posted": "Sat, 17 Oct 2026 07:30:54 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "generalist",
+  "level": "senior",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 75,
+  "is_new": true
+ },
+ {
   "id": "lattice|seniorsoftwareengineerinfrastructureplat",
   "title": "Senior Software Engineer, Infrastructure Platform",
   "company": "Lattice",
@@ -1773,7 +1757,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "lithic|seniorsoftwareengineercardauthorization",
@@ -1949,7 +1933,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "beyondtrust|cloudnetworkengineer",
@@ -1965,7 +1949,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "beyondtrust|cyberdefenseengineer",
@@ -2541,7 +2525,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "vercel|securityengineercloud",
@@ -2749,7 +2733,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|staffdataplatformengineerknowledgeplatfo",
@@ -2944,22 +2928,6 @@
   "is_new": false
  },
  {
-  "id": "bybit|seniorprincipalsitereliabilityengineer",
-  "title": "Senior Principal Site Reliability Engineer",
-  "company": "Bybit",
-  "location": "Kuala Lumpur, Malaysia",
-  "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4948647101",
-  "posted": "2026-10-14T01:49:31-04:00",
-  "source": "greenhouse",
-  "role_bucket": "sre",
-  "level": "staff+",
-  "work_mode": "unspecified",
-  "country": "Malaysia",
-  "apac_confidence": "high",
-  "score": 66,
-  "is_new": false
- },
- {
   "id": "dremio|seniorstaffsoftwareengineerqueryexecutio",
   "title": "Senior Staff Software Engineer - Query Execution",
   "company": "Dremio",
@@ -3024,12 +2992,12 @@
   "is_new": false
  },
  {
-  "id": "okx|principalseniorsoftwareengineermobilecex",
-  "title": "Principal/Senior Software Engineer, Mobile, CEX",
+  "id": "okx|principalstaffengineercompliance",
+  "title": "Principal / Staff Engineer - Compliance",
   "company": "Okx",
-  "location": "Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7768121003",
-  "posted": "2026-10-06T23:37:01-04:00",
+  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/7736920003",
+  "posted": "2026-09-24T23:57:30-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -3053,7 +3021,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|seniorstaffdataengineeranalyticsandrepor",
@@ -3533,15 +3501,15 @@
   "country": "APAC-wide",
   "apac_confidence": "medium",
   "score": 56,
-  "is_new": true
+  "is_new": false
  },
  {
-  "id": "databricks|forwarddeployedengineer",
-  "title": "Forward Deployed Engineer",
+  "id": "databricks|deploymentstrategist",
+  "title": "Deployment Strategist",
   "company": "Databricks",
   "location": "Remote - India",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002",
-  "posted": "2026-10-16T01:53:14-04:00",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637736002",
+  "posted": "2026-10-06T06:43:05-04:00",
   "source": "greenhouse",
   "role_bucket": "fde",
   "level": "unspecified",
@@ -3723,22 +3691,6 @@
   "level": "staff+",
   "work_mode": "remote",
   "country": "India",
-  "apac_confidence": "medium",
-  "score": 48,
-  "is_new": false
- },
- {
-  "id": "gitlab|seniorsolutionsarchitect",
-  "title": "Senior Solutions Architect",
-  "company": "Gitlab",
-  "location": "Remote, South Korea",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8783485002",
-  "posted": "2026-10-15T15:24:46-04:00",
-  "source": "greenhouse",
-  "role_bucket": "solutions",
-  "level": "staff+",
-  "work_mode": "remote",
-  "country": "South Korea",
   "apac_confidence": "medium",
   "score": 48,
   "is_new": false
@@ -4068,8 +4020,8 @@
   "title": "Sr. Forward Deployed Engineer",
   "company": "Databricks",
   "location": "Western Australia, Australia",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8854739002",
-  "posted": "2026-10-06T07:42:06-04:00",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002",
+  "posted": "2026-10-06T06:24:41-04:00",
   "source": "greenhouse",
   "role_bucket": "fde",
   "level": "senior",
@@ -4253,7 +4205,7 @@
   "country": "Hong Kong",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|seniorjavabackendengineerassetearn",
@@ -4285,7 +4237,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bitgo|backendengineereindia",
@@ -4317,7 +4269,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coda|softwareengineeralllevelsbackend",
@@ -4384,17 +4336,17 @@
   "is_new": false
  },
  {
-  "id": "databricks|deploymentstrategist",
-  "title": "Deployment Strategist",
+  "id": "databricks|forwarddeployedengineer",
+  "title": "Forward Deployed Engineer",
   "company": "Databricks",
-  "location": "India",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8630011002",
-  "posted": "2026-10-06T06:41:16-04:00",
+  "location": "Seoul, South Korea",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002",
+  "posted": "2026-10-06T06:26:14-04:00",
   "source": "greenhouse",
   "role_bucket": "fde",
   "level": "unspecified",
   "work_mode": "unspecified",
-  "country": "India",
+  "country": "South Korea",
   "apac_confidence": "medium",
   "score": 42,
   "is_new": false
@@ -4437,7 +4389,7 @@
   "company": "Databricks",
   "location": "Bengaluru, India",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002",
-  "posted": "2026-10-07T22:48:48-04:00",
+  "posted": "2026-10-17T03:33:08-04:00",
   "source": "greenhouse",
   "role_bucket": "backend",
   "level": "unspecified",
@@ -4483,14 +4435,14 @@
   "id": "fireblocks|salesengineer",
   "title": "Sales Engineer",
   "company": "Fireblocks",
-  "location": "Tokyo Prefecture, Japan",
-  "url": "https://www.fireblocks.com/careers/position?gh_jid=4711930006",
-  "posted": "2026-10-12T05:46:15-04:00",
+  "location": "Hong Kong",
+  "url": "https://www.fireblocks.com/careers/position?gh_jid=4606870006",
+  "posted": "2026-10-01T11:21:36-04:00",
   "source": "greenhouse",
   "role_bucket": "solutions",
   "level": "unspecified",
   "work_mode": "unspecified",
-  "country": "Japan",
+  "country": "Hong Kong",
   "apac_confidence": "medium",
   "score": 42,
   "is_new": false
@@ -4509,7 +4461,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|intermediatebackendengineerindia",
@@ -4603,6 +4555,22 @@
   "level": "unspecified",
   "work_mode": "unspecified",
   "country": "Japan",
+  "apac_confidence": "medium",
+  "score": 42,
+  "is_new": false
+ },
+ {
+  "id": "okx|softwareengineermobileweb",
+  "title": "Software Engineer, Mobile, Web3",
+  "company": "Okx",
+  "location": "Hong Kong, Hong Kong SAR",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/7777044003",
+  "posted": "2026-10-05T23:33:12-04:00",
+  "source": "greenhouse",
+  "role_bucket": "blockchain",
+  "level": "unspecified",
+  "work_mode": "unspecified",
+  "country": "Hong Kong",
   "apac_confidence": "medium",
   "score": 42,
   "is_new": false
@@ -4947,9 +4915,9 @@
   "id": "databricks|deliverysolutionsarchitect",
   "title": "Delivery Solutions Architect",
   "company": "Databricks",
-  "location": "Melbourne, Australia; Queensland, Australia",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735820002",
-  "posted": "2026-10-06T06:55:33-04:00",
+  "location": "Brisbane, Australia; Melbourne, Australia; Western Australia, Australia",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476496002",
+  "posted": "2026-10-06T06:22:25-04:00",
   "source": "greenhouse",
   "role_bucket": "solutions",
   "level": "staff+",
@@ -4979,9 +4947,9 @@
   "id": "databricks|seniorsolutionsarchitect",
   "title": "Senior Solutions Architect",
   "company": "Databricks",
-  "location": "Bengaluru, India",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652984002",
-  "posted": "2026-10-06T06:46:01-04:00",
+  "location": "Mumbai, India",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8620637002",
+  "posted": "2026-10-06T06:39:52-04:00",
   "source": "greenhouse",
   "role_bucket": "solutions",
   "level": "staff+",
@@ -5013,7 +4981,7 @@
   "company": "Databricks",
   "location": "Bengaluru, India",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002",
-  "posted": "2026-09-21T13:22:12-04:00",
+  "posted": "2026-10-17T03:40:27-04:00",
   "source": "greenhouse",
   "role_bucket": "backend",
   "level": "staff+",
@@ -5123,8 +5091,8 @@
   "id": "databricks|specialistsolutionsarchitectaiml",
   "title": "Specialist Solutions Architect - AI/ML",
   "company": "Databricks",
-  "location": "Bengaluru, India",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
+  "location": "Mumbai, India",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
   "posted": "2026-10-06T06:35:20-04:00",
   "source": "greenhouse",
   "role_bucket": "solutions",
@@ -5408,6 +5376,22 @@
   "is_new": false
  },
  {
+  "id": "gitlab|seniorsolutionsarchitect",
+  "title": "Senior Solutions Architect",
+  "company": "Gitlab",
+  "location": "Bangalore, India",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8731996002",
+  "posted": "2026-10-15T15:24:46-04:00",
+  "source": "greenhouse",
+  "role_bucket": "solutions",
+  "level": "staff+",
+  "work_mode": "unspecified",
+  "country": "India",
+  "apac_confidence": "medium",
+  "score": 38,
+  "is_new": false
+ },
+ {
   "id": "gitlab|staffbackendengineerdatabasechangemanage",
   "title": "Staff Backend Engineer - Database Change Management",
   "company": "Gitlab",
@@ -5501,7 +5485,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniorsoftwareengineerspend",
@@ -5621,7 +5605,7 @@
   "company": "Databricks",
   "location": "Bengaluru, India",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-  "posted": "2026-10-11T08:47:38-04:00",
+  "posted": "2026-10-17T03:40:25-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "senior",
@@ -5653,7 +5637,7 @@
   "company": "Databricks",
   "location": "Bengaluru, India",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
-  "posted": "2026-10-11T08:47:47-04:00",
+  "posted": "2026-10-17T03:40:19-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "senior",
@@ -5669,7 +5653,7 @@
   "company": "Databricks",
   "location": "Bengaluru, India",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002",
-  "posted": "2026-09-21T13:22:12-04:00",
+  "posted": "2026-10-17T03:41:00-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "senior",
@@ -5701,7 +5685,7 @@
   "company": "Databricks",
   "location": "Bengaluru, India",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002",
-  "posted": "2026-09-21T13:22:12-04:00",
+  "posted": "2026-10-17T03:40:57-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "senior",
@@ -5901,7 +5885,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "immutable|seniorplatformengineer",
@@ -6189,7 +6173,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|threatresearchengineer",
@@ -6205,7 +6189,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "immutable|softwareengineer",
@@ -6461,7 +6445,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|softwareengineerinternalsystems",
@@ -6608,12 +6592,28 @@
   "is_new": false
  },
  {
+  "id": "bybit|seniorprincipalsitereliabilityengineer",
+  "title": "Senior Principal Site Reliability Engineer",
+  "company": "Bybit",
+  "location": "Hong Kong SAR",
+  "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4948627101",
+  "posted": "2026-10-14T01:49:31-04:00",
+  "source": "greenhouse",
+  "role_bucket": "sre",
+  "level": "staff+",
+  "work_mode": "unspecified",
+  "country": "Hong Kong",
+  "apac_confidence": "medium",
+  "score": 28,
+  "is_new": false
+ },
+ {
   "id": "databricks|seniorstaffsoftwareengineernetworking",
   "title": "Senior Staff Software Engineer- Networking",
   "company": "Databricks",
   "location": "Bengaluru, India",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002",
-  "posted": "2026-09-21T13:22:12-04:00",
+  "posted": "2026-10-17T03:40:52-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -6693,7 +6693,7 @@
   "company": "Databricks",
   "location": "Bengaluru, India",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002",
-  "posted": "2026-09-21T13:22:12-04:00",
+  "posted": "2026-10-17T03:40:33-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -6740,8 +6740,8 @@
   "title": "Staff Software Engineer - Ingestion",
   "company": "Databricks",
   "location": "Bengaluru, India",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002",
-  "posted": "2026-09-21T13:22:12-04:00",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002",
+  "posted": "2026-10-17T03:40:36-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -6928,12 +6928,12 @@
   "is_new": false
  },
  {
-  "id": "okx|principalstaffengineercompliance",
-  "title": "Principal / Staff Engineer - Compliance",
+  "id": "okx|principalseniorsoftwareengineermobilecex",
+  "title": "Principal/Senior Software Engineer, Mobile, CEX",
   "company": "Okx",
   "location": "Hong Kong, Hong Kong SAR",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7736921003",
-  "posted": "2026-09-24T23:57:30-04:00",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/7768122003",
+  "posted": "2026-10-06T23:37:01-04:00",
   "source": "greenhouse",
   "role_bucket": "generalist",
   "level": "staff+",
