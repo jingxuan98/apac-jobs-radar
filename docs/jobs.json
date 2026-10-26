@@ -925,7 +925,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|leadbackenddevelopmentengineer",
@@ -2125,7 +2125,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "oportun|seniorsoftwareengineerr",
@@ -2141,7 +2141,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "oportun|seniordataengineercapitalmarketsr",
@@ -2221,7 +2221,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|softwareengineerquality",
@@ -2272,6 +2272,22 @@
   "is_new": false
  },
  {
+  "id": "beyondtrust|associatedataengineer",
+  "title": "Associate Data Engineer",
+  "company": "BeyondTrust",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
+  "posted": "Sat, 24 Oct 2026 07:30:50 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "generalist",
+  "level": "unspecified",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 70,
+  "is_new": false
+ },
+ {
   "id": "beyondtrust|cloudnetworkengineer",
   "title": "Cloud Network Engineer",
   "company": "BeyondTrust",
@@ -2302,22 +2318,6 @@
   "apac_confidence": "high",
   "score": 70,
   "is_new": false
- },
- {
-  "id": "beyondtrust|associatedataengineer",
-  "title": "Associate Data Engineer",
-  "company": "BeyondTrust",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-  "posted": "Sat, 24 Oct 2026 07:30:50 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "generalist",
-  "level": "unspecified",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 70,
-  "is_new": true
  },
  {
   "id": "bybit|datawarehouseengineer",
@@ -2800,12 +2800,12 @@
   "is_new": false
  },
  {
-  "id": "vercel|securityengineercloud",
-  "title": "Security Engineer, Cloud",
+  "id": "vercel|softwareengineerdataplatform",
+  "title": "Software Engineer - Data Platform",
   "company": "Vercel",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
-  "posted": "Sat, 03 Oct 2026 07:31:20 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+  "posted": "Sun, 11 Oct 2026 07:31:07 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -2816,12 +2816,12 @@
   "is_new": false
  },
  {
-  "id": "vercel|softwareengineerdataplatform",
-  "title": "Software Engineer - Data Platform",
+  "id": "vercel|securityengineercloud",
+  "title": "Security Engineer, Cloud",
   "company": "Vercel",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-  "posted": "Sun, 11 Oct 2026 07:31:07 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
+  "posted": "Sat, 03 Oct 2026 07:31:20 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -5981,7 +5981,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "matchgroup|seniordataanalyticsengineerazar",
@@ -6189,7 +6189,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "decagon|agentdeploymentengineer",
@@ -6237,7 +6237,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fireblocks|technicalsupportengineerjapan",
@@ -6509,7 +6509,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|softwareengineerpayin",
