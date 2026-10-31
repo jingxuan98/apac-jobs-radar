@@ -317,7 +317,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "lemon.io|seniorreactfullstackdeveloper",
@@ -541,7 +541,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|productaiapplicationbackendengineer",
@@ -2317,7 +2317,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "clickhouse|databasereliabilityengineercoreteam",
@@ -2544,12 +2544,12 @@
   "is_new": false
  },
  {
-  "id": "planetscale|enterprisesupportengineer",
-  "title": "Enterprise Support Engineer",
+  "id": "planetscale|softwareengineerplanetscalepostgres",
+  "title": "Software Engineer - PlanetScale Postgres",
   "company": "PlanetScale",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
-  "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+  "posted": "Sun, 25 Oct 2026 07:30:54 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -2560,12 +2560,12 @@
   "is_new": false
  },
  {
-  "id": "planetscale|softwareengineerplanetscalepostgres",
-  "title": "Software Engineer - PlanetScale Postgres",
+  "id": "planetscale|enterprisesupportengineer",
+  "title": "Enterprise Support Engineer",
   "company": "PlanetScale",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-  "posted": "Sun, 25 Oct 2026 07:30:54 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
+  "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -2784,12 +2784,12 @@
   "is_new": false
  },
  {
-  "id": "vercel|securityengineercloud",
-  "title": "Security Engineer, Cloud",
+  "id": "vercel|softwareengineerdataplatform",
+  "title": "Software Engineer - Data Platform",
   "company": "Vercel",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
-  "posted": "Sat, 03 Oct 2026 07:31:20 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+  "posted": "Sun, 11 Oct 2026 07:31:07 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -2800,12 +2800,12 @@
   "is_new": false
  },
  {
-  "id": "vercel|softwareengineerdataplatform",
-  "title": "Software Engineer - Data Platform",
+  "id": "vercel|securityengineercloud",
+  "title": "Security Engineer, Cloud",
   "company": "Vercel",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-  "posted": "Sun, 11 Oct 2026 07:31:07 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
+  "posted": "Sat, 03 Oct 2026 07:31:20 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -2877,7 +2877,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|staffsoftwareengineerlending",
@@ -2989,7 +2989,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|staffdataplatformengineerknowledgeplatfo",
@@ -3085,7 +3085,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|principalaiagentdevelopmentengineerarchi",
@@ -3757,7 +3757,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniorsolutionsengineerspenderp",
@@ -5165,7 +5165,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|seniorstaffsoftwareengineerbackend",
@@ -6173,7 +6173,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bitgo|mobileengineerereactnative",
@@ -6285,7 +6285,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fireblocks|technicalsupportengineerjapan",
@@ -6605,7 +6605,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|softwareengineerfinancialbusinessinsight",
