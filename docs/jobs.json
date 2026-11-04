@@ -2221,7 +2221,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airbnb|operationsengineerbiztech",
@@ -2381,7 +2381,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "descript|softwareengineerinfrastructure",
@@ -2397,7 +2397,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "dremio|softwareengineerqueryexecution",
@@ -3789,7 +3789,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "zoominfo technologies llc|principaldataengineer",
@@ -5597,7 +5597,7 @@
   "country": "Hong Kong",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|solutionsarchitectindia",
@@ -5885,7 +5885,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srsoftwareengineerobservability",
@@ -6269,7 +6269,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|softwareengineerinfrastructure",
@@ -6365,7 +6365,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|softwareengineerdeliveryrelease",
@@ -6957,7 +6957,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|staffsoftwareengineerdataplatform",
@@ -7213,7 +7213,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|staffsoftwareengineersecurityfoundations",
