@@ -1728,12 +1728,12 @@
   "is_new": false
  },
  {
-  "id": "carrot|sritsystemsengineer",
-  "title": "Sr. IT Systems Engineer",
+  "id": "carrot|srdataengineer",
+  "title": "Sr. Data Engineer",
   "company": "Carrot",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
-  "posted": "Fri, 30 Oct 2026 07:31:10 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+  "posted": "Wed, 28 Oct 2026 07:31:13 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "senior",
@@ -1744,12 +1744,12 @@
   "is_new": false
  },
  {
-  "id": "carrot|srdataengineer",
-  "title": "Sr. Data Engineer",
+  "id": "carrot|sritsystemsengineer",
+  "title": "Sr. IT Systems Engineer",
   "company": "Carrot",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
-  "posted": "Wed, 28 Oct 2026 07:31:13 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
+  "posted": "Fri, 30 Oct 2026 07:31:10 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "senior",
@@ -2512,12 +2512,12 @@
   "is_new": false
  },
  {
-  "id": "planetscale|enterprisesupportengineer",
-  "title": "Enterprise Support Engineer",
+  "id": "planetscale|softwareengineerplanetscalepostgres",
+  "title": "Software Engineer - PlanetScale Postgres",
   "company": "PlanetScale",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
-  "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+  "posted": "Sun, 25 Oct 2026 07:30:54 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -2528,12 +2528,12 @@
   "is_new": false
  },
  {
-  "id": "planetscale|softwareengineerplanetscalepostgres",
-  "title": "Software Engineer - PlanetScale Postgres",
+  "id": "planetscale|enterprisesupportengineer",
+  "title": "Enterprise Support Engineer",
   "company": "PlanetScale",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-  "posted": "Sun, 25 Oct 2026 07:30:54 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
+  "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -5005,7 +5005,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "palantir|deploymentstrategist",
@@ -6445,7 +6445,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|softwareengineerdeliveryrelease",
