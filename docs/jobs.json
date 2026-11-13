@@ -109,7 +109,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 86,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "temporal|seniorsolutionsarchitectsingapore",
@@ -1261,7 +1261,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stripe|specialistsolutionsarchitectfraudriskasi",
@@ -1421,7 +1421,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|senioriosengineermobileidentityorg",
@@ -1597,7 +1597,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|securityseniorapplicationsecurityenginee",
@@ -1629,7 +1629,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|seniorrecommendationsystemengineer",
@@ -1648,12 +1648,12 @@
   "is_new": false
  },
  {
-  "id": "carrot|sritsystemsengineer",
-  "title": "Sr. IT Systems Engineer",
+  "id": "carrot|srdataengineer",
+  "title": "Sr. Data Engineer",
   "company": "Carrot",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
-  "posted": "Fri, 30 Oct 2026 07:31:10 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
+  "posted": "Wed, 28 Oct 2026 07:31:13 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "senior",
@@ -1664,12 +1664,12 @@
   "is_new": false
  },
  {
-  "id": "carrot|srdataengineer",
-  "title": "Sr. Data Engineer",
+  "id": "carrot|sritsystemsengineer",
+  "title": "Sr. IT Systems Engineer",
   "company": "Carrot",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/carrot-sr-data-engineer",
-  "posted": "Wed, 28 Oct 2026 07:31:13 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
+  "posted": "Fri, 30 Oct 2026 07:31:10 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "senior",
@@ -2221,7 +2221,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|datawarehouseengineer",
@@ -2317,7 +2317,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|dataengineerproductdatadevelopment",
@@ -2445,7 +2445,7 @@
   "country": "APAC-wide",
   "apac_confidence": "medium",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "palantir|productionengineerdatabaseoperations",
@@ -2464,12 +2464,12 @@
   "is_new": false
  },
  {
-  "id": "planetscale|enterprisesupportengineer",
-  "title": "Enterprise Support Engineer",
+  "id": "planetscale|softwareengineerplanetscalepostgres",
+  "title": "Software Engineer - PlanetScale Postgres",
   "company": "PlanetScale",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
-  "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+  "posted": "Sun, 25 Oct 2026 07:30:54 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -2480,12 +2480,12 @@
   "is_new": false
  },
  {
-  "id": "planetscale|softwareengineerplanetscalepostgres",
-  "title": "Software Engineer - PlanetScale Postgres",
+  "id": "planetscale|enterprisesupportengineer",
+  "title": "Enterprise Support Engineer",
   "company": "PlanetScale",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-  "posted": "Sun, 25 Oct 2026 07:30:54 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
+  "posted": "Sun, 18 Oct 2026 07:30:58 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "unspecified",
@@ -3101,7 +3101,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|principalaiengineeraiagentdevelopment",
@@ -3277,7 +3277,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|seniorstaffengineerdecentralizeexchanged",
@@ -3613,7 +3613,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|staffsoftwareengineermobilesecurity",
@@ -4429,7 +4429,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srtechnicalsolutionsengineerplatformsupp",
@@ -5597,7 +5597,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|staffbackendengineerindia",
@@ -6253,7 +6253,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|softwareengineerspend",
@@ -6381,7 +6381,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "elastic|uxengineer",
@@ -7261,7 +7261,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|seniorstaffengineeraiplatform",
