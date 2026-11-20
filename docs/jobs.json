@@ -1600,6 +1600,22 @@
   "is_new": false
  },
  {
+  "id": "epam systems|seniorwebapplicationsecurityengineer",
+  "title": "Senior Web Application Security Engineer",
+  "company": "EPAM Systems",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
+  "posted": "Thu, 05 Nov 2026 21:24:38 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "generalist",
+  "level": "senior",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 75,
+  "is_new": false
+ },
+ {
   "id": "epam systems|seniordevopsengineer",
   "title": "Senior DevOps Engineer",
   "company": "EPAM Systems",
@@ -1624,22 +1640,6 @@
   "posted": "Mon, 16 Nov 2026 18:32:34 +0000",
   "source": "weworkremotely",
   "role_bucket": "platform",
-  "level": "senior",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 75,
-  "is_new": false
- },
- {
-  "id": "epam systems|seniorwebapplicationsecurityengineer",
-  "title": "Senior Web Application Security Engineer",
-  "company": "EPAM Systems",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
-  "posted": "Thu, 05 Nov 2026 21:24:38 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "generalist",
   "level": "senior",
   "work_mode": "remote",
   "country": "Worldwide",
@@ -1869,7 +1869,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|softwareengineerecosystem",
@@ -1981,7 +1981,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fireblocks|technicalsupportengineerapac",
@@ -3181,7 +3181,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|staffengineermiddleware",
@@ -3741,7 +3741,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 48,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniortechnicalaccountmanager",
@@ -4077,7 +4077,7 @@
   "country": "South Korea",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srforwarddeployedengineerfullstack",
@@ -4941,7 +4941,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|solutionsarchitectpresalesmanufacturinga",
@@ -5261,7 +5261,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "elastic|seniorsolutionsarchitectmumbaiindia",
@@ -5533,7 +5533,7 @@
   "country": "Thailand",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|seniorsoftwareengineerappframework",
@@ -5725,7 +5725,7 @@
   "country": "Remote / unspecified",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|seniorassignedsupportengineerdesignatedp",
@@ -5933,7 +5933,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|softwareengineerspend",
@@ -5997,7 +5997,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bitgo|mobileengineerereactnative",
@@ -6029,7 +6029,7 @@
   "country": "Remote / unspecified",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coda|itengineer",
@@ -6109,7 +6109,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fireblocks|technicalsupportengineerjapan",
@@ -6141,7 +6141,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|softwareengineerdeliveryrelease",
@@ -6461,7 +6461,7 @@
   "country": "Remote / unspecified",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "zeta|managersitereliabilityengineer",
