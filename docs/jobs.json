@@ -285,7 +285,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srsolutionsengineer",
@@ -317,7 +317,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gemini|seniorsoftwareengineerinvesttradefullsta",
@@ -365,7 +365,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "openai|seniorsupportengineersingapore",
@@ -397,7 +397,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "postscript|seniorfullstackengineercustomercontext",
@@ -413,7 +413,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "secure privacy|seniorfullstackwebdevelopernetcmongodban",
@@ -477,7 +477,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bitovi|backendplatformdeveloperconsultanttempor",
@@ -589,7 +589,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gitlab|backendengineerknowledgegraph",
@@ -845,7 +845,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "sierra|enterprisesalesengineerapac",
@@ -893,7 +893,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|staffaiengineer",
@@ -1085,7 +1085,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "collibra|federalenterprisesolutionarchitect",
@@ -1101,7 +1101,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|solutionsarchitectlakebase",
@@ -1597,7 +1597,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniorsoftwareengineerecosystem",
@@ -1728,22 +1728,6 @@
   "is_new": false
  },
  {
-  "id": "circleci|seniorsupportengineer",
-  "title": "Senior Support Engineer",
-  "company": "CircleCI",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
-  "posted": "Thu, 19 Nov 2026 06:01:49 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "generalist",
-  "level": "senior",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 75,
-  "is_new": true
- },
- {
   "id": "circleci|seniorsoftwareengineerquery",
   "title": "Senior Software Engineer, Query",
   "company": "CircleCI",
@@ -1757,7 +1741,23 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
+ },
+ {
+  "id": "circleci|seniorsupportengineer",
+  "title": "Senior Support Engineer",
+  "company": "CircleCI",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
+  "posted": "Thu, 19 Nov 2026 06:01:49 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "generalist",
+  "level": "senior",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 75,
+  "is_new": false
  },
  {
   "id": "collibra|seniorcustomersupportengineer",
@@ -1773,7 +1773,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srdesignatedsupportengineerspark",
@@ -1805,7 +1805,23 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
+ },
+ {
+  "id": "epam systems|seniorwebapplicationsecurityengineer",
+  "title": "Senior Web Application Security Engineer",
+  "company": "EPAM Systems",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
+  "posted": "Thu, 05 Nov 2026 21:24:38 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "generalist",
+  "level": "senior",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 75,
+  "is_new": false
  },
  {
   "id": "epam systems|seniordevopsengineer",
@@ -1840,22 +1856,6 @@
   "is_new": false
  },
  {
-  "id": "epam systems|seniorwebapplicationsecurityengineer",
-  "title": "Senior Web Application Security Engineer",
-  "company": "EPAM Systems",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
-  "posted": "Thu, 05 Nov 2026 21:24:38 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "generalist",
-  "level": "senior",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 75,
-  "is_new": false
- },
- {
   "id": "gemini|seniordataengineer",
   "title": "Senior Data Engineer",
   "company": "Gemini",
@@ -1869,7 +1869,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "ledgy|seniordevopsengineer",
@@ -1885,7 +1885,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "lithic|seniorsoftwareengineerissuing",
@@ -1901,7 +1901,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "offerup|softwaredevelopmentengineeriiremotecolom",
@@ -2061,7 +2061,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "squarespace|seniorsecurityengineer",
@@ -2077,7 +2077,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "tebra|senioranalyticsengineer",
@@ -2093,7 +2093,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "upsun|senioritsystemsengineer",
@@ -2157,7 +2157,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airbnb|machinelearningengineerassistanceenginee",
@@ -2173,7 +2173,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|softwareengineerdeveloperexperience",
@@ -2237,7 +2237,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|aistrategyengineer",
@@ -2269,7 +2269,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|cloudsecurityengineer",
@@ -2349,7 +2349,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "dropbox|applicationsecurityengineer",
@@ -2365,7 +2365,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "elvoro|aicreativeengineersocialmedia",
@@ -2413,7 +2413,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "flexport|securityengineerproductsecurity",
@@ -2429,7 +2429,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "flexport|securityengineercorporatesecurity",
@@ -2445,7 +2445,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "karat|softwareengineerinterviewer",
@@ -2653,7 +2653,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "sierra|softwareengineeragent",
@@ -2813,7 +2813,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "yooli|fulltimesoftwareengineerpositionreactand",
@@ -3232,22 +3232,6 @@
   "is_new": false
  },
  {
-  "id": "circleci|staffsoftwareengineer",
-  "title": "Staff Software Engineer",
-  "company": "CircleCI",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
-  "posted": "Thu, 19 Nov 2026 18:31:40 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "generalist",
-  "level": "staff+",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 66,
-  "is_new": true
- },
- {
   "id": "circleci|staffsoftwareengineerdeliveryengineering",
   "title": "Staff Software Engineer, Delivery Engineering",
   "company": "CircleCI",
@@ -3261,7 +3245,23 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
+ },
+ {
+  "id": "circleci|staffsoftwareengineer",
+  "title": "Staff Software Engineer",
+  "company": "CircleCI",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
+  "posted": "Thu, 19 Nov 2026 18:31:40 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "generalist",
+  "level": "staff+",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 66,
+  "is_new": false
  },
  {
   "id": "discord|staffsoftwareengineerenterpriseplatform",
@@ -3277,7 +3277,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "dremio|staffsoftwareengineerqueryplanneramprefl",
@@ -3293,7 +3293,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "flexport|staffsecurityengineerproductsecurity",
@@ -3309,7 +3309,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gusto, inc.|seniorstaffengineertaxplatform",
@@ -3325,7 +3325,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "legion|principalsoftwareengineerdevops",
@@ -3341,7 +3341,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|infrastructurestabilityarchitectseniorst",
@@ -3901,7 +3901,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "zoominfo technologies llc|principaldataengineer",
@@ -4125,7 +4125,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 52,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "supabase|technicalaccountmanagerapj",
@@ -4669,7 +4669,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srmanagerfieldengineeringenterprise",
@@ -4685,7 +4685,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 47,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srsoftwareengineeragenticapplicationsful",
@@ -5741,7 +5741,7 @@
   "country": "South Korea",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "elastic|seniorpartnersolutionsarchitect",
@@ -6061,7 +6061,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|seniorsoftwareengineerappframework",
@@ -6237,7 +6237,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "g-p|softwareengineerii",
@@ -6429,7 +6429,7 @@
   "country": "Remote / unspecified",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "zeta|devsecopsengineerii",
@@ -6493,7 +6493,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 37,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "zeta|technicalsupportengineerii",
@@ -6637,7 +6637,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "decagon|agentdeploymentengineer",
@@ -6733,7 +6733,7 @@
   "country": "Japan",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "matchgroup|machinelearningengineermatchgroupai",
@@ -7053,7 +7053,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|principalaiengineerbusinessaccounts",
@@ -7213,7 +7213,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 28,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|staffsoftwareengineer",
