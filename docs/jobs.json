@@ -205,7 +205,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "clickhouse|seniorcloudperformanceengineer",
@@ -317,7 +317,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "customer.io|seniorsoftwareengineerbackend",
@@ -333,7 +333,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srsolutionsengineer",
@@ -365,7 +365,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "datadog|seniorsalesengineerfed",
@@ -381,7 +381,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "datadog|seniorsalesengineeraiaccounts",
@@ -397,7 +397,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 85,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "fin|seniormanagersolutionsengineering",
@@ -701,7 +701,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 80,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|managerfieldengineeringlaunchpadprogram",
@@ -736,22 +736,6 @@
   "is_new": false
  },
  {
-  "id": "dropbox|fullstackproductsoftwareengineer",
-  "title": "Full Stack Product Software Engineer",
-  "company": "Dropbox",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
-  "posted": "Mon, 23 Nov 2026 18:31:47 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "fullstack",
-  "level": "unspecified",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 80,
-  "is_new": false
- },
- {
   "id": "dropbox|backendproductsoftwareengineer",
   "title": "Backend Product Software Engineer",
   "company": "Dropbox",
@@ -760,6 +744,22 @@
   "posted": "Sat, 31 Oct 2026 07:31:12 +0000",
   "source": "weworkremotely",
   "role_bucket": "backend",
+  "level": "unspecified",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 80,
+  "is_new": false
+ },
+ {
+  "id": "dropbox|fullstackproductsoftwareengineer",
+  "title": "Full Stack Product Software Engineer",
+  "company": "Dropbox",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/dropbox-full-stack-product-software-engineer",
+  "posted": "Mon, 23 Nov 2026 18:31:47 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "fullstack",
   "level": "unspecified",
   "work_mode": "remote",
   "country": "Worldwide",
@@ -795,22 +795,6 @@
   "level": "unspecified",
   "work_mode": "unspecified",
   "country": "Singapore",
-  "apac_confidence": "high",
-  "score": 80,
-  "is_new": false
- },
- {
-  "id": "gitlab|backendengineerknowledgegraph",
-  "title": "Backend Engineer, Knowledge Graph",
-  "company": "GitLab",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph",
-  "posted": "Sat, 31 Oct 2026 07:31:02 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "backend",
-  "level": "unspecified",
-  "work_mode": "remote",
-  "country": "Worldwide",
   "apac_confidence": "high",
   "score": 80,
   "is_new": false
@@ -870,6 +854,22 @@
   "location": "Anywhere in the World",
   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
   "posted": "Sat, 21 Nov 2026 18:31:46 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "backend",
+  "level": "unspecified",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 80,
+  "is_new": false
+ },
+ {
+  "id": "gitlab|backendengineerknowledgegraph",
+  "title": "Backend Engineer, Knowledge Graph",
+  "company": "GitLab",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph",
+  "posted": "Sat, 31 Oct 2026 07:31:02 +0000",
   "source": "weworkremotely",
   "role_bucket": "backend",
   "level": "unspecified",
@@ -1549,7 +1549,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "jfrog|solutionarchitectnewlogopresales",
@@ -1565,7 +1565,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 76,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|principalseniorproductmanageraiwebwallet",
@@ -1773,7 +1773,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airbnb|seniorsoftwareengineerguestamphost",
@@ -1837,7 +1837,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniormobileengineeriosglobalpayments",
@@ -1933,7 +1933,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|seniorsoftwareengineerbillingfrontend",
@@ -2157,7 +2157,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|securityseniorapplicationsecurityenginee",
@@ -2189,7 +2189,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|seniorrecommendationalgorithmengineer",
@@ -2224,11 +2224,11 @@
   "is_new": false
  },
  {
-  "id": "circleci|seniorsupportengineer",
-  "title": "Senior Support Engineer",
+  "id": "circleci|seniorsoftwareengineerquery",
+  "title": "Senior Software Engineer, Query",
   "company": "CircleCI",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
+  "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer-query",
   "posted": "Thu, 19 Nov 2026 06:01:49 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
@@ -2240,11 +2240,11 @@
   "is_new": false
  },
  {
-  "id": "circleci|seniorsoftwareengineerquery",
-  "title": "Senior Software Engineer, Query",
+  "id": "circleci|seniorsupportengineer",
+  "title": "Senior Support Engineer",
   "company": "CircleCI",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer-query",
+  "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
   "posted": "Thu, 19 Nov 2026 06:01:49 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
@@ -2285,7 +2285,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "databricks|srdesignatedsupportengineerspark",
@@ -2336,6 +2336,22 @@
   "is_new": false
  },
  {
+  "id": "epam systems|seniorwebapplicationsecurityengineer",
+  "title": "Senior Web Application Security Engineer",
+  "company": "EPAM Systems",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
+  "posted": "Thu, 05 Nov 2026 21:24:38 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "generalist",
+  "level": "senior",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 75,
+  "is_new": false
+ },
+ {
   "id": "epam systems|seniordevopsengineer",
   "title": "Senior DevOps Engineer",
   "company": "EPAM Systems",
@@ -2368,30 +2384,14 @@
   "is_new": false
  },
  {
-  "id": "epam systems|seniorwebapplicationsecurityengineer",
-  "title": "Senior Web Application Security Engineer",
-  "company": "EPAM Systems",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
-  "posted": "Thu, 05 Nov 2026 21:24:38 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "generalist",
-  "level": "senior",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 75,
-  "is_new": false
- },
- {
-  "id": "gemini|seniorplatformengineer",
-  "title": "Senior Platform Engineer",
+  "id": "gemini|seniorsoftwareengineermoney",
+  "title": "Senior Software Engineer, Money",
   "company": "Gemini",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
-  "posted": "Sat, 21 Nov 2026 18:32:07 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-money",
+  "posted": "Sun, 22 Nov 2026 18:31:54 +0000",
   "source": "weworkremotely",
-  "role_bucket": "platform",
+  "role_bucket": "generalist",
   "level": "senior",
   "work_mode": "remote",
   "country": "Worldwide",
@@ -2416,14 +2416,14 @@
   "is_new": false
  },
  {
-  "id": "gemini|seniorsoftwareengineermoney",
-  "title": "Senior Software Engineer, Money",
+  "id": "gemini|seniorplatformengineer",
+  "title": "Senior Platform Engineer",
   "company": "Gemini",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-money",
-  "posted": "Sun, 22 Nov 2026 18:31:54 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
+  "posted": "Sat, 21 Nov 2026 18:32:07 +0000",
   "source": "weworkremotely",
-  "role_bucket": "generalist",
+  "role_bucket": "platform",
   "level": "senior",
   "work_mode": "remote",
   "country": "Worldwide",
@@ -2701,7 +2701,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 75,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airbnb|machinelearningengineerassistanceenginee",
@@ -2797,7 +2797,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "beyondtrust|sitereliabilityengineer",
@@ -2909,7 +2909,7 @@
   "country": "Malaysia",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bybit|testengineer",
@@ -2973,7 +2973,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "dropbox|applicationsecurityengineer",
@@ -3056,22 +3056,6 @@
   "is_new": false
  },
  {
-  "id": "gusto, inc.|sitereliabilityengineer",
-  "title": "Site Reliability Engineer",
-  "company": "Gusto, Inc.",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer",
-  "posted": "Mon, 23 Nov 2026 18:31:31 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "sre",
-  "level": "unspecified",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 70,
-  "is_new": false
- },
- {
   "id": "gusto, inc.|softwareengineerfinancialdataamppayments",
   "title": "Software Engineer, Financial Data &amp; Payments",
   "company": "Gusto, Inc.",
@@ -3080,6 +3064,22 @@
   "posted": "Sat, 21 Nov 2026 06:03:18 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
+  "level": "unspecified",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 70,
+  "is_new": false
+ },
+ {
+  "id": "gusto, inc.|sitereliabilityengineer",
+  "title": "Site Reliability Engineer",
+  "company": "Gusto, Inc.",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer",
+  "posted": "Mon, 23 Nov 2026 18:31:31 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "sre",
   "level": "unspecified",
   "work_mode": "remote",
   "country": "Worldwide",
@@ -3149,7 +3149,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|dataengineerproductdatadevelopment",
@@ -3309,7 +3309,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "ritual|machinelearningengineer",
@@ -3565,7 +3565,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 70,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "twilio|developersuccessengineerp",
@@ -3645,7 +3645,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airbnb|seniorstaffmachinelearningengineerposttr",
@@ -3661,7 +3661,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "airwallex|staffsoftwareengineerspend",
@@ -4013,7 +4013,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "celonis|leadappliedvalueengineer",
@@ -4022,22 +4022,6 @@
   "location": "Anywhere in the World",
   "url": "https://weworkremotely.com/remote-jobs/celonis-lead-applied-value-engineer",
   "posted": "Mon, 23 Nov 2026 06:02:06 +0000",
-  "source": "weworkremotely",
-  "role_bucket": "generalist",
-  "level": "staff+",
-  "work_mode": "remote",
-  "country": "Worldwide",
-  "apac_confidence": "high",
-  "score": 66,
-  "is_new": false
- },
- {
-  "id": "circleci|staffsoftwareengineer",
-  "title": "Staff Software Engineer",
-  "company": "CircleCI",
-  "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
-  "posted": "Thu, 19 Nov 2026 18:31:40 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -4080,12 +4064,12 @@
   "is_new": false
  },
  {
-  "id": "discord|staffsoftwareengineerenterpriseplatform",
-  "title": "Staff Software Engineer, Enterprise Platform",
-  "company": "Discord",
+  "id": "circleci|staffsoftwareengineer",
+  "title": "Staff Software Engineer",
+  "company": "CircleCI",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-enterprise-platform",
-  "posted": "Fri, 20 Nov 2026 18:31:16 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
+  "posted": "Thu, 19 Nov 2026 18:31:40 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -4102,6 +4086,22 @@
   "location": "Anywhere in the World",
   "url": "https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-safety-processing",
   "posted": "Sun, 22 Nov 2026 18:32:35 +0000",
+  "source": "weworkremotely",
+  "role_bucket": "generalist",
+  "level": "staff+",
+  "work_mode": "remote",
+  "country": "Worldwide",
+  "apac_confidence": "high",
+  "score": 66,
+  "is_new": false
+ },
+ {
+  "id": "discord|staffsoftwareengineerenterpriseplatform",
+  "title": "Staff Software Engineer, Enterprise Platform",
+  "company": "Discord",
+  "location": "Anywhere in the World",
+  "url": "https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-enterprise-platform",
+  "posted": "Fri, 20 Nov 2026 18:31:16 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -4189,7 +4189,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "gusto, inc.|seniorstaffengineertaxplatform",
@@ -4429,7 +4429,7 @@
   "country": "Singapore",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "okx|seniorstaffengineerdataplatformdevelopme",
@@ -4797,7 +4797,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "pinterest|principalengineeraiplatform",
@@ -4813,7 +4813,7 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "stability ai|staffsoftwareengineerdata",
@@ -4877,15 +4877,15 @@
   "country": "Worldwide",
   "apac_confidence": "high",
   "score": 66,
-  "is_new": true
+  "is_new": false
  },
  {
-  "id": "zoominfo technologies llc|principaldataengineer",
-  "title": "Principal Data Engineer",
+  "id": "zoominfo technologies llc|principalsoftwareengineer",
+  "title": "Principal Software Engineer",
   "company": "ZoomInfo Technologies LLC",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
-  "posted": "Thu, 29 Oct 2026 07:30:52 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-software-engineer",
+  "posted": "Sat, 21 Nov 2026 18:30:52 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -4896,12 +4896,12 @@
   "is_new": false
  },
  {
-  "id": "zoominfo technologies llc|principalsoftwareengineer",
-  "title": "Principal Software Engineer",
+  "id": "zoominfo technologies llc|principaldataengineer",
+  "title": "Principal Data Engineer",
   "company": "ZoomInfo Technologies LLC",
   "location": "Anywhere in the World",
-  "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-software-engineer",
-  "posted": "Sat, 21 Nov 2026 18:30:52 +0000",
+  "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
+  "posted": "Thu, 29 Oct 2026 07:30:52 +0000",
   "source": "weworkremotely",
   "role_bucket": "generalist",
   "level": "staff+",
@@ -5741,7 +5741,7 @@
   "country": "Remote / unspecified",
   "apac_confidence": "medium",
   "score": 42,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bitgo|backendengineereecosystem",
@@ -6733,7 +6733,7 @@
   "country": "Australia",
   "apac_confidence": "medium",
   "score": 38,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "elastic|seniorsolutionsarchitectpublicsectorcanb",
@@ -7437,7 +7437,7 @@
   "country": "South Korea",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "bitgo|dataengineere",
@@ -7501,7 +7501,7 @@
   "country": "Thailand",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "coda|itengineer",
@@ -7533,7 +7533,7 @@
   "country": "India",
   "apac_confidence": "medium",
   "score": 32,
-  "is_new": true
+  "is_new": false
  },
  {
   "id": "decagon|agentdeploymentengineer",
